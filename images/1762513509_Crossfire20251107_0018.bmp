@@ -1,0 +1,100 @@
+
+        <!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/WebPage">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>404 - Not Found</title>
+
+  <!-- SEO Meta Tags -->
+  <meta itemprop="name" content="404 - Page Not Found">
+  <meta itemprop="description" content="Sorry, the page you are looking for could not be found. It might have been removed, its name changed, or it is temporarily unavailable.">
+  <meta itemprop="url" content="https://www.yoursite.com/404">
+
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f1f1f1;
+      margin: 10px auto;
+      padding: 0;
+      color: #333;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .container {
+      background-color: #fff;
+      padding: 40px 60px;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      width: 100%;
+      max-width: 700px;
+      text-align: center;
+      margin: 10px
+    }
+
+    .error-code {
+      font-size: 100px;
+      font-weight: bold;
+      color: #E74C3C;
+    }
+
+    .error-message {
+      font-size: 24px;
+      color: #2C3E50;
+      margin: 20px 0;
+    }
+
+    .error-description {
+      font-size: 16px;
+      color: #7F8C8D;
+      margin-bottom: 30px;
+    }
+
+    .home-link {
+      background-color: #2980B9;
+      color: #fff;
+      text-decoration: none;
+      padding: 12px 24px;
+      border-radius: 5px;
+      font-size: 16px;
+      transition: background-color 0.3s;
+    }
+
+    .home-link:hover {
+      background-color: #1D6A8C;
+    }
+
+    .footer {
+      margin-top: 20px;
+      font-size: 12px;
+      color: #7F8C8D;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="error-code" itemprop="headline">404</div>
+    <div class="error-message" itemprop="description">Not Found</div>
+    <div class="error-description">
+      The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.
+    </div>
+    <a href="/" class="home-link" itemprop="url">Go to Homepage</a>
+
+    <div class="footer">
+      <p>Powered by Xtgem.Com</p>
+    </div>
+  </div>
+
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"d97ca942ce5b4d8c97d1f3de826bcb34","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
+
+
+<script src="/js/videojs/videojs.js"></script>
+<link rel="stylesheet" href="/css/videojs.css?v=0.1">
+      
